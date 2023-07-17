@@ -28,3 +28,24 @@
 2023-07-17 15:14:00.761 [main] INFO  apiTest.UserTests - ---User is deleted-------------
 2023-07-17 15:14:00.762 [main] DEBUG apiUtilities.ExtentReportManager - ----QQQQQQQQQQQQQ------
 2023-07-17 15:14:00.762 [main] INFO  apiUtilities.ExtentReportManager - testDeleteUserByName Passed
+2023-07-17 15:22:32.631 [main] DEBUG apiTest.UserTests - ----debug message------
+2023-07-17 15:22:32.671 [main] INFO  apiUtilities.ExtentReportManager - testPostUser Started
+2023-07-17 15:22:32.674 [main] INFO  apiTest.UserTests - ---Create user-------------
+2023-07-17 15:22:37.414 [main] INFO  apiTest.UserTests - ---User is created-------------
+2023-07-17 15:22:37.435 [main] DEBUG apiUtilities.ExtentReportManager - ----QQQQQQQQQQQQQ------
+2023-07-17 15:22:37.436 [main] INFO  apiUtilities.ExtentReportManager - testPostUser Passed
+2023-07-17 15:22:37.441 [main] INFO  apiUtilities.ExtentReportManager - testGetUserByName Started
+2023-07-17 15:22:37.443 [main] INFO  apiTest.UserTests - ---Reading  user information-------------
+2023-07-17 15:22:38.126 [main] INFO  apiTest.UserTests - ---User info is displayed-------------
+2023-07-17 15:22:38.128 [main] DEBUG apiUtilities.ExtentReportManager - ----QQQQQQQQQQQQQ------
+2023-07-17 15:22:38.128 [main] INFO  apiUtilities.ExtentReportManager - testGetUserByName Passed
+2023-07-17 15:22:38.131 [main] INFO  apiUtilities.ExtentReportManager - testUpdateUserByName Started
+2023-07-17 15:22:38.131 [main] INFO  apiTest.UserTests - ---Update user-------------
+2023-07-17 15:22:39.497 [main] INFO  apiTest.UserTests - ---User is updated-------------
+2023-07-17 15:22:39.498 [main] DEBUG apiUtilities.ExtentReportManager - ----QQQQQQQQQQQQQ------
+2023-07-17 15:22:39.498 [main] INFO  apiUtilities.ExtentReportManager - testUpdateUserByName Passed
+2023-07-17 15:22:39.500 [main] INFO  apiUtilities.ExtentReportManager - testDeleteUserByName Started
+2023-07-17 15:22:39.501 [main] INFO  apiTest.UserTests - ---Delete user-------------
+2023-07-17 15:22:40.083 [main] INFO  apiTest.UserTests - ---User is deleted-------------
+2023-07-17 15:22:40.084 [main] DEBUG apiUtilities.ExtentReportManager - ----QQQQQQQQQQQQQ------
+2023-07-17 15:22:40.085 [main] INFO  apiUtilities.ExtentReportManager - testDeleteUserByName Passed

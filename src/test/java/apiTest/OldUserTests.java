@@ -75,7 +75,7 @@ public class OldUserTests {
     public void testDeleteUserByName() {
 
         Response response =  UserEndPoints.deleteUser(this.userPayload.getUsername());
-        Assert.assertEquals(response.getStatusCode(),201);
+        Assert.assertEquals(response.getStatusCode(),200);
 
 
 

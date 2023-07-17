@@ -41,7 +41,7 @@ public class UserTests {
         System.out.println("resssss - " + response.toString());
         response.then().log().all();
 
-        Assert.assertEquals(response.getStatusCode(), 200);
+        Assert.assertEquals(response.getStatusCode(), 201);
         logger.info("---User is created-------------");
     }
 
